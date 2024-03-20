@@ -1,2 +1,5 @@
 Test file
 Bootcamp practice
+clone http url 
+cd to directory
+git pull
